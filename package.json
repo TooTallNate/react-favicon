@@ -1,0 +1,23 @@
+{
+  "name": "@tootallnate/react-favicon",
+  "version": "0.0.0",
+  "description": "Render a React component to your app's favicon",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/debug": "^4.1.6",
+    "@types/react": "^17.0.13",
+    "next": "^11.0.1",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "debug": "^4.3.2",
+    "react": "^17.0.2"
+  }
+}
